@@ -18,4 +18,4 @@ Use TwitterCloud('#id or .class') or TwitterCloud('#id or .class', type='wall')
 
 Use TwitterCloud('#id or .class', type='cloud')
 
-![Alt text](/screenshot_wall.png?raw=true "Twitter Cloud")
+![Alt text](/screenshot_cloud.png?raw=true "Twitter Cloud")
