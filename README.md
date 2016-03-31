@@ -5,7 +5,12 @@
 * Bootstrap 3.*
 * JQuery 1.*
 
-Include .js and .css files into your project and initiate Twitter Cloud using TwitterCloud('#id or .class') in your js file. 
+##### Getting Started
+1. Create a new Twitter app by going to <https://apps.twitter.com>
+2. Create you keys and access tokens.
+3. Add them to </php/index.php>
+4. Include .js and .css files into your project
+5. Initiate Twitter Cloud using TwitterCloud('#id or .class') in your js file. 
 
 #### For Twitter Wall
 
