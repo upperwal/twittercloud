@@ -1,5 +1,7 @@
 ### Tweet Cloud
 
+![Alt text](/screenshot.png?raw=true "Screen Shot")
+
 #### Requirement
 
 * Bootstrap 3.*
